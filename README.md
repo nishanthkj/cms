@@ -9,5 +9,5 @@ Description :
   
   
 Project Url:
-  Source : https://github.com/kumarcops/DBMS-Mini-Project
-Name : Abhishek Thakur
+  Source : https://github.com/nishanthkj/cms
+Name : Nishanth K J
